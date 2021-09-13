@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <title>Registrar socio</title>
+</head>
+
+<body>
+    <div class="row">
+        <div class="container-fluid bg-primary py-5">
+            <div class="container text-white">
+                <h1 class="display-3"><b>Programación III</b></h1>
+                <p class="lead">2do Parcial</p>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <form>
+            <div class="row">
+                <div class="col-lg-6 col-md-12 col-sm-12">
+                    <div class="form-group">
+                        <label>Nomrbre</label>
+                        <input type="text" class="form-control" id="txtNombre" placeholder="ingrese nombre...">
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-12 col-sm-12">
+                    <div class="form-group">
+                        <label>Apellido</label>
+                        <input type="text" class="form-control" id="txtApellido" placeholder="ingrese apellido...">
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-6 col-md-12 col-sm-12">
+                    <div class="form-group">
+                        <label>Calle</label>
+                        <input type="text" class="form-control" id="txtCalle" placeholder="ingrese calle...">
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-12 col-sm-12">
+                    <div class="form-group">
+                        <label>Número</label>
+                        <input type="text" class="form-control" id="txtNumero" placeholder="ingrese número...">
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-6 col-md-12 col-sm-12">
+                    <div class="form-group">
+                        <label>Teléfono</label>
+                        <input type="text" class="form-control" id="txtTelefono" placeholder="ingrese telefono...">
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-12 col-sm-12">
+                    <div class="form-group">
+                        <label>Deporte</label>
+                        <select class="form-control" id="cmbDeporte">
+                        </select>
+                    </div>
+                </div>
+            </div>
+
+
+            <button type="button" id="btnRegistrar" class="btn btn-primary">Registrar</button>
+        </form>
+
+    </div>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+        integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+        integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+
+<script>
+
+    ///obtener los deportes
+$(document).ready(function(){
+    $.ajax({
+        url:"https://localhost:5001/Socios/ObtenerDeportes",
+        type: "GET",
+        success: function(result){
+            if(result.ok){
+                resultados= result.return;
+                cargarCombo(resultados);
+            }else
+            {
+                swal.fire(result.error);
+            }
+        },
+        error : function(error){
+            swal.fire("Problemas al obtener los Deportes");
+        },
+    })
+})
+
+//combo deportes
+function cargarCombo(datos){
+    var html="<option value=''>SELECCIONE</option>";
+    $("#cmbDeporte").append(html);
+    select= document.getElementById("cmbDeporte");
+    for(let i=0; i < datos.length; i++ ){
+        var option= document.createElement('option');
+        option.value= datos[i].id;
+        option.text = datos[i].nombre;
+        select.add(option);
+    }
+}
+
+//boton de carga
+$("#btnRegistrar").click(function(){
+    let nombre= $("#txtNombre").val();
+    let apellido= $("#txtApellido").val();
+    let calle= $("#txtCalle").val();
+    let numero= $("#txtNumero").val();
+    let deporte= $("#cmbDeporte").val();
+    if(nombre===""||apellido===""||calle===""||numero===""||deporte===""){
+        swal("Todos los campos son requeridos");
+    }else{
+        altaSocio(nombre, apellido, calle, numero, deporte);
+    }
+});
+
+//Alta
+function altaSocio(nombre, apellido, calle, numero, deporte){
+    comando={
+    "nombre": nombre,
+  "apellido": apellido,
+  "calle": calle,
+  "numero": parseInt(numero),
+  "idDeporte": parseInt(deporte),
+    };
+    $.ajax({
+        url: "https://localhost:5001/Socios/CrearSocio",
+        type: "POST",
+        dataType:"JSON",
+        contentType: "application/json",
+        data: JSON.stringify(comando),
+        success: function(result){
+            if(result.ok){
+                swal("Alta Exitosa");
+               
+            }else{
+                swal(result.error);
+            }
+        },
+        error : function (error){
+            swal("Problemas al cargar pruebe nuevamente");
+        },
+    })
+}
+
+
+
+</script>
+
+</body>
+
+</html>

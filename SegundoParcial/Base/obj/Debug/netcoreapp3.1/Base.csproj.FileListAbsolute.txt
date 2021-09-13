@@ -1,0 +1,178 @@
+E:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\bin\Debug\netcoreapp3.1\Base.exe
+e:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\bin\Debug\netcoreapp3.1\Base.deps.json
+e:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\bin\Debug\netcoreapp3.1\Base.runtimeconfig.json
+e:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\bin\Debug\netcoreapp3.1\Base.runtimeconfig.dev.json
+E:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\bin\Debug\netcoreapp3.1\Base.dll
+E:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\bin\Debug\netcoreapp3.1\Base.pdb
+E:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\bin\Debug\netcoreapp3.1\Npgsql.dll
+E:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\obj\Debug\netcoreapp3.1\Base.csprojAssemblyReference.cache
+E:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\obj\Debug\netcoreapp3.1\Base.AssemblyInfoInputs.cache
+E:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\obj\Debug\netcoreapp3.1\Base.AssemblyInfo.cs
+E:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\obj\Debug\netcoreapp3.1\Base.csproj.CoreCompileInputs.cache
+E:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\obj\Debug\netcoreapp3.1\Base.MvcApplicationPartsAssemblyInfo.cs
+E:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\obj\Debug\netcoreapp3.1\Base.MvcApplicationPartsAssemblyInfo.cache
+E:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\obj\Debug\netcoreapp3.1\Base.RazorTargetAssemblyInfo.cache
+e:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\obj\Debug\netcoreapp3.1\Base.csproj.CopyComplete
+E:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\obj\Debug\netcoreapp3.1\staticwebassets\Base.StaticWebAssets.Manifest.cache
+E:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\obj\Debug\netcoreapp3.1\staticwebassets\Base.StaticWebAssets.xml
+E:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\obj\Debug\netcoreapp3.1\Base.dll
+E:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\obj\Debug\netcoreapp3.1\Base.pdb
+e:\Programacion\Proyectos\ProgramacionIII\APIS\APIs Full\Base\obj\Debug\netcoreapp3.1\Base.genruntimeconfig.cache
+E:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Base.exe
+e:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Base.deps.json
+e:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Base.runtimeconfig.json
+e:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Base.runtimeconfig.dev.json
+E:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Base.dll
+E:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Base.pdb
+E:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Npgsql.dll
+E:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\obj\Debug\netcoreapp3.1\Base.csprojAssemblyReference.cache
+E:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\obj\Debug\netcoreapp3.1\Base.AssemblyInfoInputs.cache
+E:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\obj\Debug\netcoreapp3.1\Base.AssemblyInfo.cs
+E:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\obj\Debug\netcoreapp3.1\Base.csproj.CoreCompileInputs.cache
+E:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\obj\Debug\netcoreapp3.1\Base.MvcApplicationPartsAssemblyInfo.cs
+E:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\obj\Debug\netcoreapp3.1\Base.MvcApplicationPartsAssemblyInfo.cache
+E:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\obj\Debug\netcoreapp3.1\Base.RazorTargetAssemblyInfo.cache
+e:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\obj\Debug\netcoreapp3.1\Base.csproj.CopyComplete
+E:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\obj\Debug\netcoreapp3.1\staticwebassets\Base.StaticWebAssets.Manifest.cache
+E:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\obj\Debug\netcoreapp3.1\staticwebassets\Base.StaticWebAssets.xml
+E:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\obj\Debug\netcoreapp3.1\Base.dll
+E:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\obj\Debug\netcoreapp3.1\Base.pdb
+e:\Programacion\Proyectos\GhitHub\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\obj\Debug\netcoreapp3.1\Base.genruntimeconfig.cache
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\appsettings.Development.json
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\appsettings.json
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Base.exe
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Base.deps.json
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Base.runtimeconfig.json
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Base.runtimeconfig.dev.json
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Base.dll
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Base.pdb
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Humanizer.dll
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Npgsql.dll
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\obj\Debug\netcoreapp3.1\Base.csproj.AssemblyReference.cache
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\obj\Debug\netcoreapp3.1\Base.AssemblyInfoInputs.cache
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\obj\Debug\netcoreapp3.1\Base.AssemblyInfo.cs
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\obj\Debug\netcoreapp3.1\Base.csproj.CoreCompileInputs.cache
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\obj\Debug\netcoreapp3.1\Base.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\obj\Debug\netcoreapp3.1\Base.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\obj\Debug\netcoreapp3.1\staticwebassets\Base.StaticWebAssets.Manifest.cache
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\obj\Debug\netcoreapp3.1\staticwebassets\Base.StaticWebAssets.xml
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\obj\Debug\netcoreapp3.1\scopedcss\bundle\Base.styles.css
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\obj\Debug\netcoreapp3.1\Base.RazorTargetAssemblyInfo.cache
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\obj\Debug\netcoreapp3.1\Base.csproj.CopyComplete
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\obj\Debug\netcoreapp3.1\Base.dll
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\obj\Debug\netcoreapp3.1\Base.pdb
+c:\Users\Tomas\Downloads\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568 (1)\segundo-parcial-prog3---w1-2w1DenisAdrianCabrera109568\SegundoParcial\Base\obj\Debug\netcoreapp3.1\Base.genruntimeconfig.cache
+C:\Users\Tomas\Documents\SegundoParcial\Base\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Tomas\Documents\SegundoParcial\Base\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Tomas\Documents\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Base.exe
+C:\Users\Tomas\Documents\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Base.deps.json
+C:\Users\Tomas\Documents\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Base.runtimeconfig.json
+C:\Users\Tomas\Documents\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Base.runtimeconfig.dev.json
+C:\Users\Tomas\Documents\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Base.dll
+C:\Users\Tomas\Documents\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Base.pdb
+C:\Users\Tomas\Documents\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Tomas\Documents\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tomas\Documents\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tomas\Documents\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Tomas\Documents\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tomas\Documents\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Tomas\Documents\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Tomas\Documents\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Tomas\Documents\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tomas\Documents\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Tomas\Documents\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Tomas\Documents\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Tomas\Documents\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Tomas\Documents\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Tomas\Documents\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Tomas\Documents\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\Tomas\Documents\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Tomas\Documents\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Tomas\Documents\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Tomas\Documents\SegundoParcial\Base\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Tomas\Documents\SegundoParcial\Base\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Tomas\Documents\SegundoParcial\Base\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Tomas\Documents\SegundoParcial\Base\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tomas\Documents\SegundoParcial\Base\obj\Debug\netcoreapp3.1\Base.csproj.AssemblyReference.cache
+C:\Users\Tomas\Documents\SegundoParcial\Base\obj\Debug\netcoreapp3.1\Base.AssemblyInfoInputs.cache
+C:\Users\Tomas\Documents\SegundoParcial\Base\obj\Debug\netcoreapp3.1\Base.AssemblyInfo.cs
+C:\Users\Tomas\Documents\SegundoParcial\Base\obj\Debug\netcoreapp3.1\Base.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Documents\SegundoParcial\Base\obj\Debug\netcoreapp3.1\Base.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tomas\Documents\SegundoParcial\Base\obj\Debug\netcoreapp3.1\Base.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tomas\Documents\SegundoParcial\Base\obj\Debug\netcoreapp3.1\staticwebassets\Base.StaticWebAssets.Manifest.cache
+C:\Users\Tomas\Documents\SegundoParcial\Base\obj\Debug\netcoreapp3.1\staticwebassets\Base.StaticWebAssets.xml
+C:\Users\Tomas\Documents\SegundoParcial\Base\obj\Debug\netcoreapp3.1\scopedcss\bundle\Base.styles.css
+C:\Users\Tomas\Documents\SegundoParcial\Base\obj\Debug\netcoreapp3.1\Base.RazorTargetAssemblyInfo.cache
+C:\Users\Tomas\Documents\SegundoParcial\Base\obj\Debug\netcoreapp3.1\Base.csproj.CopyComplete
+C:\Users\Tomas\Documents\SegundoParcial\Base\obj\Debug\netcoreapp3.1\Base.dll
+C:\Users\Tomas\Documents\SegundoParcial\Base\obj\Debug\netcoreapp3.1\Base.pdb
+C:\Users\Tomas\Documents\SegundoParcial\Base\obj\Debug\netcoreapp3.1\Base.genruntimeconfig.cache
